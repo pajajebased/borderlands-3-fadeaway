@@ -18,4 +18,5 @@
 
 # Infinite Fade Away duration
 SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Beastmaster/DataTable_Beastmaster_SkillBalance.DataTable_Beastmaster_SkillBalance,Ultimate_Spiderant,Secondary_21_5ED678CA4FB7C9C602D841A55EDD67B9,0,,90.0
-SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Beastmaster/DataTable_Beastmaster_SkillBalance.DataTable_Beastmaster_SkillBalance,Ultimate_Spiderant_Mod3,Cooldown_8_237733FC43C8C6F2B3A6558D8A0FB0C1,0,,90.0
+SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_Design/Balance/Beastmaster/DataTable_Beastmaster_SkillBalance.DataTable_Beastmaster_SkillBalance,Ultimate_Spiderant_Mod3,Cooldown_8_237733FC43C8C6F2B3A6558D8A0FB0C1,0,,20.0
+.0
